@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+bot.log
+_screenshot_tmp.png
+easyocr_models/
+bot.txt
+.idea/
+.vscode/
